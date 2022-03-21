@@ -1,0 +1,24 @@
+{
+  "name": "fetch-tel-session",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexMost/fetch-tel-session.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexMost/fetch-tel-session/issues"
+  },
+  "homepage": "https://github.com/AlexMost/fetch-tel-session#readme",
+  "dependencies": {
+    "input": "^1.0.1",
+    "telegram": "^2.5.22"
+  }
+}
